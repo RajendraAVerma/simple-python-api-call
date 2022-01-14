@@ -1,2 +1,2 @@
 # This is simple API call using python requests library
-news api of dnnews.in
+news api of dnnews.in (wordpress site)
